@@ -162,4 +162,6 @@ if __name__=="__main__":
 	diag=a.board
 	printBoard(diag)
 	solve(diag)
+
+#piecom
 	
